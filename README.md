@@ -4,7 +4,7 @@ Bu proje, Python'ın PyQt5 kütüphanesini kullanarak geliştirilmiş, temel ari
 
 ### 📸 Ekran Görüntüsü
 
-![Projenin Ekran Görüntüsü](c:/Users/user/Pictures/Screenshots)
+![Projenin Ekran Görüntüsü](images/hesapM.png)
 
 ### ✨ Özellikler
 
