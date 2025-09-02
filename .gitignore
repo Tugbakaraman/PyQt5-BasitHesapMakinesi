@@ -1,0 +1,7 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Diğer yaygın Python dosyaları
+.venv/
+venv/
